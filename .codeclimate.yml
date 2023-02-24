@@ -4,7 +4,7 @@ engines:
 
 ratings:
   paths:
-  - "**.rb"
+    - "**.rb"
 
 exclude_paths:
-- spec/**/*
+  - spec/**/*
